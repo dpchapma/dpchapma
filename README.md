@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dpchapma
+- 👀 I’m interested in neuroscience, specifically the neural correlates of memory disruption following TBI
+- 🌱 I’m currently learning electrophysiology, optogenetics, computational modeling, and time series analysis.
+- 💞️ I’m looking to collaborate on everything!
+- 📫 How to reach me dpc53@georgtown.edu or on LinkedIn https://www.linkedin.com/in/daniel-chapman-2746ba176/
